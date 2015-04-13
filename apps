@@ -1,0 +1,16 @@
+[app] (name=fbrun)
+  [Position]	(CENTER)	{0 0}
+  [Layer]	{2}
+[end]
+[app] (name=Chromium-browser) (class=Chromium-browser) (role=browser)
+  [Deco]	{NONE}
+  [Close]	{yes}
+[end]
+[app] (name=x-terminal-emulator) (class=X-terminal-emulator)
+  [Deco]	{NORMAL}
+  [Close]	{yes}
+[end]
+[app] (name=atom) (class=Atom) (role=browser-window)
+  [Deco]	{NONE}
+  [Close]	{yes}
+[end]
