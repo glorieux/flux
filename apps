@@ -7,7 +7,7 @@
   [Close]	{yes}
 [end]
 [app] (name=x-terminal-emulator) (class=X-terminal-emulator)
-  [Deco]	{NORMAL}
+  [Deco]	{NONE}
   [Close]	{yes}
 [end]
 [app] (name=atom) (class=Atom) (role=browser-window)
