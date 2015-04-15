@@ -1,3 +1,6 @@
+# Lock Screen
+Mod4 l :ExecCommand xlock
+
 # Show Desktop
 Mod4 d :ShowDesktop
 
